@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="my_string">Textttt</string>
+    <string name="Size_Header">Enter size of the Hex Board</string>
+    <string name="Okey">Ok</string>
+    <string name="Play">PLAY</string>
+    <string name="against_cpu">Player vs Computer</string>
+
+
+</resources>
